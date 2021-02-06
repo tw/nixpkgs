@@ -56,7 +56,7 @@ stdenv.mkDerivation rec {
   meta = with stdenv.lib; {
     description = "Multi-platform password manager";
     longDescription = ''
-      1Password is a multi-platform package manager.
+      1Password is a multi-platform password manager.
 
       The Linux version is currently a development preview and can
       only be used to search, view, and copy items. However items
